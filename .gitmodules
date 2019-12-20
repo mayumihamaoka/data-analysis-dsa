@@ -1,0 +1,3 @@
+[submodule "PythonFundamentos"]
+	path = PythonFundamentos
+	url = git@github.com:dsacademybr/PythonFundamentos.git
